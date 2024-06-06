@@ -9,8 +9,8 @@ Key Components:
 
 * Modeling: Multiple algorithms, including Logistic Regression, Random Forest, and Gradient Boosting, are implemented. Ensemble techniques further improve prediction accuracy.
 
-*Evaluation: Models are evaluated using various metrics and cross-validation to ensure reliability and robustness.
+* Evaluation: Models are evaluated using various metrics and cross-validation to ensure reliability and robustness.
 
-*Pipeline: A complete machine learning pipeline is developed, streamlining the entire process from preprocessing to prediction.
+* Pipeline: A complete machine learning pipeline is developed, streamlining the entire process from preprocessing to prediction.
 
 The enhancements ensure a comprehensive and efficient approach to credit card fraud detection, leveraging advanced techniques to achieve high accuracy and reliability.
